@@ -1,0 +1,423 @@
+<meta>
+	<info author = "bemydream" type = "gamemode" version = "0.9.9"/>
+
+	<file src = "Files/Images/Bloodscreen.png"/>
+	<file src = "Files/Images/Window1.png"/>
+	<file src = "Files/Images/Window2.png"/>
+	<file src = "Files/Images/Button.png"/>
+	<file src = "Files/Images/Pixel/Weiss.png"/>
+	
+	<file src = "Files/Images/HUD/armour.png"/>
+	<file src = "Files/Images/HUD/health.png"/>
+	<file src = "Files/Images/HUD/location.png"/>
+	<file src = "Files/Images/HUD/money.png"/>
+	<file src = "Files/Images/HUD/time.png"/>
+	<file src = "Files/Images/HUD/coins.png"/>
+	<file src = "Files/Images/HUD/flash.png"/>
+	<file src = "Files/Images/HUD/skull.png"/>
+	<file src = "Files/Images/HUD/stopwatch.png"/>
+	
+	<file src = "Files/Images/HUD/Waffen/0.png"/>
+	<file src = "Files/Images/HUD/Waffen/1.png"/>
+	<file src = "Files/Images/HUD/Waffen/2.png"/>
+	<file src = "Files/Images/HUD/Waffen/3.png"/>
+	<file src = "Files/Images/HUD/Waffen/4.png"/>
+	<file src = "Files/Images/HUD/Waffen/5.png"/>
+	<file src = "Files/Images/HUD/Waffen/6.png"/>
+	<file src = "Files/Images/HUD/Waffen/7.png"/>
+	<file src = "Files/Images/HUD/Waffen/8.png"/>
+	<file src = "Files/Images/HUD/Waffen/9.png"/>
+	<file src = "Files/Images/HUD/Waffen/10.png"/>
+	<file src = "Files/Images/HUD/Waffen/11.png"/>
+	<file src = "Files/Images/HUD/Waffen/12.png"/>
+	<file src = "Files/Images/HUD/Waffen/14.png"/>
+	<file src = "Files/Images/HUD/Waffen/15.png"/>
+	<file src = "Files/Images/HUD/Waffen/16.png"/>
+	<file src = "Files/Images/HUD/Waffen/17.png"/>
+	<file src = "Files/Images/HUD/Waffen/18.png"/>
+	<file src = "Files/Images/HUD/Waffen/22.png"/>
+	<file src = "Files/Images/HUD/Waffen/23.png"/>
+	<file src = "Files/Images/HUD/Waffen/24.png"/>
+	<file src = "Files/Images/HUD/Waffen/25.png"/>
+	<file src = "Files/Images/HUD/Waffen/26.png"/>
+	<file src = "Files/Images/HUD/Waffen/27.png"/>
+	<file src = "Files/Images/HUD/Waffen/28.png"/>
+	<file src = "Files/Images/HUD/Waffen/29.png"/>
+	<file src = "Files/Images/HUD/Waffen/30.png"/>
+	<file src = "Files/Images/HUD/Waffen/31.png"/>
+	<file src = "Files/Images/HUD/Waffen/32.png"/>
+	<file src = "Files/Images/HUD/Waffen/33.png"/>
+	<file src = "Files/Images/HUD/Waffen/34.png"/>
+	<file src = "Files/Images/HUD/Waffen/35.png"/>
+	<file src = "Files/Images/HUD/Waffen/36.png"/>
+	<file src = "Files/Images/HUD/Waffen/37.png"/>
+	<file src = "Files/Images/HUD/Waffen/38.png"/>
+	<file src = "Files/Images/HUD/Waffen/39.png"/>
+	<file src = "Files/Images/HUD/Waffen/40.png"/>
+	<file src = "Files/Images/HUD/Waffen/41.png"/>
+	<file src = "Files/Images/HUD/Waffen/42.png"/>
+	<file src = "Files/Images/HUD/Waffen/43.png"/>
+	<file src = "Files/Images/HUD/Waffen/44.png"/>
+	<file src = "Files/Images/HUD/Waffen/45.png"/>
+	<file src = "Files/Images/HUD/Waffen/46.png"/>
+	
+	<file src = "Files/Images/Skins/Skinid0.jpg"/>
+	<file src = "Files/Images/Skins/Skinid1.jpg"/>
+	<file src = "Files/Images/Skins/Skinid2.jpg"/>
+	<file src = "Files/Images/Skins/Skinid7.jpg"/>
+	<file src = "Files/Images/Skins/Skinid9.jpg"/>
+	<file src = "Files/Images/Skins/Skinid10.jpg"/>
+	<file src = "Files/Images/Skins/Skinid11.jpg"/>
+	<file src = "Files/Images/Skins/Skinid12.jpg"/>
+	<file src = "Files/Images/Skins/Skinid13.jpg"/>
+	<file src = "Files/Images/Skins/Skinid14.jpg"/>
+	<file src = "Files/Images/Skins/Skinid15.jpg"/>
+	<file src = "Files/Images/Skins/Skinid16.jpg"/>
+	<file src = "Files/Images/Skins/Skinid17.jpg"/>
+	<file src = "Files/Images/Skins/Skinid18.jpg"/>
+	<file src = "Files/Images/Skins/Skinid19.jpg"/>
+	<file src = "Files/Images/Skins/Skinid20.jpg"/>
+	<file src = "Files/Images/Skins/Skinid21.jpg"/>
+	<file src = "Files/Images/Skins/Skinid22.jpg"/>
+	<file src = "Files/Images/Skins/Skinid23.jpg"/>
+	<file src = "Files/Images/Skins/Skinid24.jpg"/>
+	<file src = "Files/Images/Skins/Skinid25.jpg"/>
+	<file src = "Files/Images/Skins/Skinid26.jpg"/>
+	<file src = "Files/Images/Skins/Skinid27.jpg"/>
+	<file src = "Files/Images/Skins/Skinid28.jpg"/>
+	<file src = "Files/Images/Skins/Skinid29.jpg"/>
+	<file src = "Files/Images/Skins/Skinid30.jpg"/>
+	<file src = "Files/Images/Skins/Skinid31.jpg"/>
+	<file src = "Files/Images/Skins/Skinid32.jpg"/>
+	<file src = "Files/Images/Skins/Skinid33.jpg"/>
+	<file src = "Files/Images/Skins/Skinid34.jpg"/>
+	<file src = "Files/Images/Skins/Skinid35.jpg"/>
+	<file src = "Files/Images/Skins/Skinid36.jpg"/>
+	<file src = "Files/Images/Skins/Skinid37.jpg"/>
+	<file src = "Files/Images/Skins/Skinid38.jpg"/>
+	<file src = "Files/Images/Skins/Skinid39.jpg"/>
+	<file src = "Files/Images/Skins/Skinid40.jpg"/>
+	<file src = "Files/Images/Skins/Skinid41.jpg"/>
+	<file src = "Files/Images/Skins/Skinid43.jpg"/>
+	<file src = "Files/Images/Skins/Skinid44.jpg"/>
+	<file src = "Files/Images/Skins/Skinid45.jpg"/>
+	<file src = "Files/Images/Skins/Skinid46.jpg"/>
+	<file src = "Files/Images/Skins/Skinid47.jpg"/>
+	<file src = "Files/Images/Skins/Skinid48.jpg"/>
+	<file src = "Files/Images/Skins/Skinid49.jpg"/>
+	<file src = "Files/Images/Skins/Skinid50.jpg"/>
+	<file src = "Files/Images/Skins/Skinid51.jpg"/>
+	<file src = "Files/Images/Skins/Skinid52.jpg"/>
+	<file src = "Files/Images/Skins/Skinid53.jpg"/>
+	<file src = "Files/Images/Skins/Skinid54.jpg"/>
+	<file src = "Files/Images/Skins/Skinid55.jpg"/>
+	<file src = "Files/Images/Skins/Skinid56.jpg"/>
+	<file src = "Files/Images/Skins/Skinid57.jpg"/>
+	<file src = "Files/Images/Skins/Skinid58.jpg"/>
+	<file src = "Files/Images/Skins/Skinid59.jpg"/>
+	<file src = "Files/Images/Skins/Skinid60.jpg"/>
+	<file src = "Files/Images/Skins/Skinid61.jpg"/>
+	<file src = "Files/Images/Skins/Skinid62.jpg"/>
+	<file src = "Files/Images/Skins/Skinid63.jpg"/>
+	<file src = "Files/Images/Skins/Skinid64.jpg"/>
+	<file src = "Files/Images/Skins/Skinid66.jpg"/>
+	<file src = "Files/Images/Skins/Skinid67.jpg"/>
+	<file src = "Files/Images/Skins/Skinid68.jpg"/>
+	<file src = "Files/Images/Skins/Skinid69.jpg"/>
+	<file src = "Files/Images/Skins/Skinid70.jpg"/>
+	<file src = "Files/Images/Skins/Skinid71.jpg"/>
+	<file src = "Files/Images/Skins/Skinid72.jpg"/>
+	<file src = "Files/Images/Skins/Skinid73.jpg"/>
+	<file src = "Files/Images/Skins/Skinid75.jpg"/>
+	<file src = "Files/Images/Skins/Skinid76.jpg"/>
+	<file src = "Files/Images/Skins/Skinid77.jpg"/>
+	<file src = "Files/Images/Skins/Skinid78.jpg"/>
+	<file src = "Files/Images/Skins/Skinid79.jpg"/>
+	<file src = "Files/Images/Skins/Skinid80.jpg"/>
+	<file src = "Files/Images/Skins/Skinid81.jpg"/>
+	<file src = "Files/Images/Skins/Skinid82.jpg"/>
+	<file src = "Files/Images/Skins/Skinid83.jpg"/>
+	<file src = "Files/Images/Skins/Skinid84.jpg"/>
+	<file src = "Files/Images/Skins/Skinid85.jpg"/>
+	<file src = "Files/Images/Skins/Skinid87.jpg"/>
+	<file src = "Files/Images/Skins/Skinid88.jpg"/>
+	<file src = "Files/Images/Skins/Skinid89.jpg"/>
+	<file src = "Files/Images/Skins/Skinid90.jpg"/>
+	<file src = "Files/Images/Skins/Skinid91.jpg"/>
+	<file src = "Files/Images/Skins/Skinid92.jpg"/>
+	<file src = "Files/Images/Skins/Skinid93.jpg"/>
+	<file src = "Files/Images/Skins/Skinid94.jpg"/>
+	<file src = "Files/Images/Skins/Skinid95.jpg"/>
+	<file src = "Files/Images/Skins/Skinid96.jpg"/>
+	<file src = "Files/Images/Skins/Skinid97.jpg"/>
+	<file src = "Files/Images/Skins/Skinid98.jpg"/>
+	<file src = "Files/Images/Skins/Skinid99.jpg"/>
+	<file src = "Files/Images/Skins/Skinid100.jpg"/>
+	<file src = "Files/Images/Skins/Skinid101.jpg"/>
+	<file src = "Files/Images/Skins/Skinid102.jpg"/>
+	<file src = "Files/Images/Skins/Skinid103.jpg"/>
+	<file src = "Files/Images/Skins/Skinid104.jpg"/>
+	<file src = "Files/Images/Skins/Skinid105.jpg"/>
+	<file src = "Files/Images/Skins/Skinid106.jpg"/>
+	<file src = "Files/Images/Skins/Skinid107.jpg"/>
+	<file src = "Files/Images/Skins/Skinid108.jpg"/>
+	<file src = "Files/Images/Skins/Skinid109.jpg"/>
+	<file src = "Files/Images/Skins/Skinid110.jpg"/>
+	<file src = "Files/Images/Skins/Skinid111.jpg"/>
+	<file src = "Files/Images/Skins/Skinid112.jpg"/>
+	<file src = "Files/Images/Skins/Skinid113.jpg"/>
+	<file src = "Files/Images/Skins/Skinid114.jpg"/>
+	<file src = "Files/Images/Skins/Skinid115.jpg"/>
+	<file src = "Files/Images/Skins/Skinid116.jpg"/>
+	<file src = "Files/Images/Skins/Skinid117.jpg"/>
+	<file src = "Files/Images/Skins/Skinid118.jpg"/>
+	<file src = "Files/Images/Skins/Skinid120.jpg"/>
+	<file src = "Files/Images/Skins/Skinid121.jpg"/>
+	<file src = "Files/Images/Skins/Skinid122.jpg"/>
+	<file src = "Files/Images/Skins/Skinid123.jpg"/>
+	<file src = "Files/Images/Skins/Skinid124.jpg"/>
+	<file src = "Files/Images/Skins/Skinid125.jpg"/>
+	<file src = "Files/Images/Skins/Skinid126.jpg"/>
+	<file src = "Files/Images/Skins/Skinid127.jpg"/>
+	<file src = "Files/Images/Skins/Skinid128.jpg"/>
+	<file src = "Files/Images/Skins/Skinid129.jpg"/>
+	<file src = "Files/Images/Skins/Skinid130.jpg"/>
+	<file src = "Files/Images/Skins/Skinid131.jpg"/>
+	<file src = "Files/Images/Skins/Skinid132.jpg"/>
+	<file src = "Files/Images/Skins/Skinid133.jpg"/>
+	<file src = "Files/Images/Skins/Skinid134.jpg"/>
+	<file src = "Files/Images/Skins/Skinid135.jpg"/>
+	<file src = "Files/Images/Skins/Skinid136.jpg"/>
+	<file src = "Files/Images/Skins/Skinid137.jpg"/>
+	<file src = "Files/Images/Skins/Skinid138.jpg"/>
+	<file src = "Files/Images/Skins/Skinid139.jpg"/>
+	<file src = "Files/Images/Skins/Skinid140.jpg"/>
+	<file src = "Files/Images/Skins/Skinid141.jpg"/>
+	<file src = "Files/Images/Skins/Skinid142.jpg"/>
+	<file src = "Files/Images/Skins/Skinid143.jpg"/>
+	<file src = "Files/Images/Skins/Skinid144.jpg"/>
+	<file src = "Files/Images/Skins/Skinid145.jpg"/>
+	<file src = "Files/Images/Skins/Skinid146.jpg"/>
+	<file src = "Files/Images/Skins/Skinid147.jpg"/>
+	<file src = "Files/Images/Skins/Skinid148.jpg"/>
+	<file src = "Files/Images/Skins/Skinid150.jpg"/>
+	<file src = "Files/Images/Skins/Skinid151.jpg"/>
+	<file src = "Files/Images/Skins/Skinid152.jpg"/>
+	<file src = "Files/Images/Skins/Skinid153.jpg"/>
+	<file src = "Files/Images/Skins/Skinid154.jpg"/>
+	<file src = "Files/Images/Skins/Skinid155.jpg"/>
+	<file src = "Files/Images/Skins/Skinid156.jpg"/>
+	<file src = "Files/Images/Skins/Skinid157.jpg"/>
+	<file src = "Files/Images/Skins/Skinid158.jpg"/>
+	<file src = "Files/Images/Skins/Skinid159.jpg"/>
+	<file src = "Files/Images/Skins/Skinid160.jpg"/>
+	<file src = "Files/Images/Skins/Skinid161.jpg"/>
+	<file src = "Files/Images/Skins/Skinid162.jpg"/>
+	<file src = "Files/Images/Skins/Skinid163.jpg"/>
+	<file src = "Files/Images/Skins/Skinid164.jpg"/>
+	<file src = "Files/Images/Skins/Skinid165.jpg"/>
+	<file src = "Files/Images/Skins/Skinid166.jpg"/>
+	<file src = "Files/Images/Skins/Skinid167.jpg"/>
+	<file src = "Files/Images/Skins/Skinid168.jpg"/>
+	<file src = "Files/Images/Skins/Skinid169.jpg"/>
+	<file src = "Files/Images/Skins/Skinid170.jpg"/>
+	<file src = "Files/Images/Skins/Skinid171.jpg"/>
+	<file src = "Files/Images/Skins/Skinid172.jpg"/>
+	<file src = "Files/Images/Skins/Skinid173.jpg"/>
+	<file src = "Files/Images/Skins/Skinid174.jpg"/>
+	<file src = "Files/Images/Skins/Skinid175.jpg"/>
+	<file src = "Files/Images/Skins/Skinid176.jpg"/>
+	<file src = "Files/Images/Skins/Skinid177.jpg"/>
+	<file src = "Files/Images/Skins/Skinid178.jpg"/>
+	<file src = "Files/Images/Skins/Skinid179.jpg"/>
+	<file src = "Files/Images/Skins/Skinid180.jpg"/>
+	<file src = "Files/Images/Skins/Skinid181.jpg"/>
+	<file src = "Files/Images/Skins/Skinid182.jpg"/>
+	<file src = "Files/Images/Skins/Skinid183.jpg"/>
+	<file src = "Files/Images/Skins/Skinid184.jpg"/>
+	<file src = "Files/Images/Skins/Skinid185.jpg"/>
+	<file src = "Files/Images/Skins/Skinid186.jpg"/>
+	<file src = "Files/Images/Skins/Skinid187.jpg"/>
+	<file src = "Files/Images/Skins/Skinid188.jpg"/>
+	<file src = "Files/Images/Skins/Skinid189.jpg"/>
+	<file src = "Files/Images/Skins/Skinid190.jpg"/>
+	<file src = "Files/Images/Skins/Skinid191.jpg"/>
+	<file src = "Files/Images/Skins/Skinid192.jpg"/>
+	<file src = "Files/Images/Skins/Skinid193.jpg"/>
+	<file src = "Files/Images/Skins/Skinid194.jpg"/>
+	<file src = "Files/Images/Skins/Skinid195.jpg"/>
+	<file src = "Files/Images/Skins/Skinid196.jpg"/>
+	<file src = "Files/Images/Skins/Skinid197.jpg"/>
+	<file src = "Files/Images/Skins/Skinid198.jpg"/>
+	<file src = "Files/Images/Skins/Skinid199.jpg"/>
+	<file src = "Files/Images/Skins/Skinid200.jpg"/>
+	<file src = "Files/Images/Skins/Skinid201.jpg"/>
+	<file src = "Files/Images/Skins/Skinid202.jpg"/>
+	<file src = "Files/Images/Skins/Skinid203.jpg"/>
+	<file src = "Files/Images/Skins/Skinid204.jpg"/>
+	<file src = "Files/Images/Skins/Skinid205.jpg"/>
+	<file src = "Files/Images/Skins/Skinid206.jpg"/>
+	<file src = "Files/Images/Skins/Skinid207.jpg"/>
+	<file src = "Files/Images/Skins/Skinid209.jpg"/>
+	<file src = "Files/Images/Skins/Skinid210.jpg"/>
+	<file src = "Files/Images/Skins/Skinid211.jpg"/>
+	<file src = "Files/Images/Skins/Skinid212.jpg"/>
+	<file src = "Files/Images/Skins/Skinid213.jpg"/>
+	<file src = "Files/Images/Skins/Skinid214.jpg"/>
+	<file src = "Files/Images/Skins/Skinid215.jpg"/>
+	<file src = "Files/Images/Skins/Skinid216.jpg"/>
+	<file src = "Files/Images/Skins/Skinid217.jpg"/>
+	<file src = "Files/Images/Skins/Skinid218.jpg"/>
+	<file src = "Files/Images/Skins/Skinid219.jpg"/>
+	<file src = "Files/Images/Skins/Skinid220.jpg"/>
+	<file src = "Files/Images/Skins/Skinid221.jpg"/>
+	<file src = "Files/Images/Skins/Skinid222.jpg"/>
+	<file src = "Files/Images/Skins/Skinid223.jpg"/>
+	<file src = "Files/Images/Skins/Skinid224.jpg"/>
+	<file src = "Files/Images/Skins/Skinid225.jpg"/>
+	<file src = "Files/Images/Skins/Skinid226.jpg"/>
+	<file src = "Files/Images/Skins/Skinid227.jpg"/>
+	<file src = "Files/Images/Skins/Skinid228.jpg"/>
+	<file src = "Files/Images/Skins/Skinid229.jpg"/>
+	<file src = "Files/Images/Skins/Skinid230.jpg"/>
+	<file src = "Files/Images/Skins/Skinid231.jpg"/>
+	<file src = "Files/Images/Skins/Skinid232.jpg"/>
+	<file src = "Files/Images/Skins/Skinid233.jpg"/>
+	<file src = "Files/Images/Skins/Skinid234.jpg"/>
+	<file src = "Files/Images/Skins/Skinid235.jpg"/>
+	<file src = "Files/Images/Skins/Skinid236.jpg"/>
+	<file src = "Files/Images/Skins/Skinid237.jpg"/>
+	<file src = "Files/Images/Skins/Skinid238.jpg"/>
+	<file src = "Files/Images/Skins/Skinid239.jpg"/>
+	<file src = "Files/Images/Skins/Skinid240.jpg"/>
+	<file src = "Files/Images/Skins/Skinid241.jpg"/>
+	<file src = "Files/Images/Skins/Skinid242.jpg"/>
+	<file src = "Files/Images/Skins/Skinid243.jpg"/>
+	<file src = "Files/Images/Skins/Skinid244.jpg"/>
+	<file src = "Files/Images/Skins/Skinid245.jpg"/>
+	<file src = "Files/Images/Skins/Skinid246.jpg"/>
+	<file src = "Files/Images/Skins/Skinid247.jpg"/>
+	<file src = "Files/Images/Skins/Skinid248.jpg"/>
+	<file src = "Files/Images/Skins/Skinid249.jpg"/>
+	<file src = "Files/Images/Skins/Skinid250.jpg"/>
+	<file src = "Files/Images/Skins/Skinid251.jpg"/>
+	<file src = "Files/Images/Skins/Skinid252.jpg"/>
+	<file src = "Files/Images/Skins/Skinid253.jpg"/>
+	<file src = "Files/Images/Skins/Skinid254.jpg"/>
+	<file src = "Files/Images/Skins/Skinid255.jpg"/>
+	<file src = "Files/Images/Skins/Skinid256.jpg"/>
+	<file src = "Files/Images/Skins/Skinid257.jpg"/>
+	<file src = "Files/Images/Skins/Skinid258.jpg"/>
+	<file src = "Files/Images/Skins/Skinid259.jpg"/>
+	<file src = "Files/Images/Skins/Skinid260.jpg"/>
+	<file src = "Files/Images/Skins/Skinid261.jpg"/>
+	<file src = "Files/Images/Skins/Skinid262.jpg"/>
+	<file src = "Files/Images/Skins/Skinid263.jpg"/>
+	<file src = "Files/Images/Skins/Skinid264.jpg"/>
+	<file src = "Files/Images/Skins/Skinid265.jpg"/>
+	<file src = "Files/Images/Skins/Skinid266.jpg"/>
+	<file src = "Files/Images/Skins/Skinid267.jpg"/>
+	<file src = "Files/Images/Skins/Skinid268.jpg"/>
+	<file src = "Files/Images/Skins/Skinid269.jpg"/>
+	<file src = "Files/Images/Skins/Skinid270.jpg"/>
+	<file src = "Files/Images/Skins/Skinid271.jpg"/>
+	<file src = "Files/Images/Skins/Skinid272.jpg"/>
+	<file src = "Files/Images/Skins/Skinid274.jpg"/>
+	<file src = "Files/Images/Skins/Skinid275.jpg"/>
+	<file src = "Files/Images/Skins/Skinid276.jpg"/>
+	<file src = "Files/Images/Skins/Skinid277.jpg"/>
+	<file src = "Files/Images/Skins/Skinid278.jpg"/>
+	<file src = "Files/Images/Skins/Skinid279.jpg"/>
+	<file src = "Files/Images/Skins/Skinid280.jpg"/>
+	<file src = "Files/Images/Skins/Skinid281.jpg"/>
+	<file src = "Files/Images/Skins/Skinid282.jpg"/>
+	<file src = "Files/Images/Skins/Skinid283.jpg"/>
+	<file src = "Files/Images/Skins/Skinid284.jpg"/>
+	<file src = "Files/Images/Skins/Skinid285.jpg"/>
+	<file src = "Files/Images/Skins/Skinid286.jpg"/>
+	<file src = "Files/Images/Skins/Skinid287.jpg"/>
+	<file src = "Files/Images/Skins/Skinid288.jpg"/>
+	<file src = "Files/Images/Skins/Skinid290.jpg"/>
+	<file src = "Files/Images/Skins/Skinid291.jpg"/>
+	<file src = "Files/Images/Skins/Skinid292.jpg"/>
+	<file src = "Files/Images/Skins/Skinid293.jpg"/>
+	<file src = "Files/Images/Skins/Skinid294.jpg"/>
+	<file src = "Files/Images/Skins/Skinid295.jpg"/>
+	<file src = "Files/Images/Skins/Skinid296.jpg"/>
+	<file src = "Files/Images/Skins/Skinid297.jpg"/>
+	<file src = "Files/Images/Skins/Skinid298.jpg"/>
+	<file src = "Files/Images/Skins/Skinid299.jpg"/>
+	<file src = "Files/Images/Skins/Skinid301.jpg"/>
+	<file src = "Files/Images/Skins/Skinid302.jpg"/>
+	<file src = "Files/Images/Skins/Skinid303.jpg"/>
+	<file src = "Files/Images/Skins/Skinid304.jpg"/>
+	<file src = "Files/Images/Skins/Skinid305.jpg"/>
+	<file src = "Files/Images/Skins/Skinid306.jpg"/>
+	<file src = "Files/Images/Skins/Skinid307.jpg"/>
+	<file src = "Files/Images/Skins/Skinid308.jpg"/>
+	<file src = "Files/Images/Skins/Skinid309.jpg"/>
+	<file src = "Files/Images/Skins/Skinid310.jpg"/>
+	<file src = "Files/Images/Skins/Skinid311.jpg"/>
+	<file src = "Files/Images/Skins/Skinid312.jpg"/>
+	
+	<file src = "Files/Images/Achievement_locked.png"/>
+	<file src = "Files/Images/Achievement_reached.png"/>
+	
+	<file src = "Files/Sounds/Hitsound.mp3"/>
+	<file src = "Files/Sounds/letsgo.wav"/>
+	
+	<file src = "Files/Fonts/Dash-Dermo.ttf"/>
+	<file src = "Files/Fonts/Honor.ttf"/>
+	<file src = "Files/Fonts/TrueLies.ttf"/>
+	
+	<map src = "Maps/Pennerspawn.map"/>
+
+	<script src = "Language/cLanguage.lua" type = "client" cache = "false"/>
+	<script src = "Language/sLanguage.lua"/>
+	<script src = "Language/Texte.lua" type = "shared"/>
+
+	<script src = "GUIClass.lua" type = "client" cache = "false"/>
+	<script src = "DX.lua" type = "client" cache = "false"/>
+	<script src = "cMain.lua" type = "client" cache = "false"/>
+	<script src = "sMain.lua"/>
+	
+	<script src = "RegisterLogin/cRegisterLogin.lua" type = "client" cache = "false"/>
+	<script src = "RegisterLogin/sRegisterLogin.lua"/>
+	
+	<script src = "DeagleArena/cDeagleArena.lua" type = "client" cache = "false"/>
+	<script src = "DeagleArena/sDeagleArena.lua"/>
+	
+	<script src = "DeathmatchArena/cDeathmatchArena.lua" type = "client" cache = "false"/>
+	<script src = "DeathmatchArena/sDeathmatchArena.lua"/>
+	
+	<script src = "Systeme/sChat.lua"/>
+	<script src = "Systeme/sEinstellungen.lua"/>
+	<script src = "Systeme/cPeds.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/cHilfemenue.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/sAdminsystem.lua"/>
+	<script src = "Systeme/sMinigames.lua"/>
+	<script src = "Systeme/cHitbox.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/sHitbox.lua"/>
+	<script src = "Systeme/cScoreboard.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/cHUD.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/cNametag.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/sTopliste.lua"/>
+	<script src = "Systeme/cTopliste.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/cInfobox.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/cBuyCoins.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/sBuyCoins.lua"/>
+	<script src = "Systeme/cLootbox.lua" type = "client" cache = "false"/>
+	<script src = "Systeme/sLootbox.lua"/>
+	
+	<script src = "VIP/cVIP.lua" type = "client" cache = "false"/>
+	<script src = "VIP/sVIP.lua"/>
+	
+	<script src = "TacticsArena/cTacticsArena.lua" type = "client"/>
+	<script src = "TacticsArena/sTacticsArena.lua"/>
+	
+	<script src = "Errungenschaften/sAchievements.lua"/>
+	<script src = "Errungenschaften/cAchievements.lua" type = "client" cache = "false"/>
+	
+	<script src = "Shops/cWaffenshop.lua" type = "client" cache = "false"/>
+	<script src = "Shops/sWaffenshop.lua"/>
+</meta>
